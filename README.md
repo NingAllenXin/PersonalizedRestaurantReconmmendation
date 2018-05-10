@@ -1,5 +1,7 @@
 # PersonalizedRestaurantReconmmendation
-•	Improved personalized restaurant recommendation based on searching history and records of their favorite and implemented collaborative filtering and sorting algorithm on saved data to achieve recommendations
+•	Improved personalized restaurant recommendation based on searching history and records of their favorite
+
+• Implemented collaborative filtering and sorting algorithm on saved data to achieve recommendations
 
 •	Created JAVA servlets with REST APIs to handle HTTP requests and responses
 
